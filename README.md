@@ -1,0 +1,2 @@
+# lifetime-data-synthesis
+AGENTIC IEP ARCHITECT: LIFETIME DATA SYNTHESIS
